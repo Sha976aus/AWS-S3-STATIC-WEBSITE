@@ -17,7 +17,7 @@ It includes bucket configuration, public access management, and static website h
 - Website endpoint deployment
 
 ## 🌐 Live Website
-(Replace this with your S3 website URL)
+http://book-s3-bucke.s3-website-us-east-1.amazonaws.com/
 
 ## 📷 Screenshots
 Screenshots of bucket configuration and deployed website are included in this repository.
